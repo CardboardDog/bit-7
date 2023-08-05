@@ -1,0 +1,7 @@
+/love2d/*.*
+/dist/*.*
+/dist/release/Bit7.exe
+/dist/release/license.txt
+/build/
+__pycache__
+*.spec

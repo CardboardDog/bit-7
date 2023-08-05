@@ -1,0 +1,2 @@
+Do NOT distribute files in the "dist" folder.
+The "release" folder is were all FINISHED binaries are put.
