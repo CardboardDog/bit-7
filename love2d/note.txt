@@ -1,0 +1,2 @@
+Put your love2d binaries here.
+Also make sure to put the license in this folder.
